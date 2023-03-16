@@ -1,0 +1,14 @@
+[
+  {
+    "package": "choroplethr",
+    "oncran": true
+  },
+  {
+    "package": "choroplethrAdmin1",
+    "oncran": true
+  },
+  {
+    "package": "choroplethrMaps",
+    "oncran": true
+  }
+]
