@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "choroplethr"]
-	path = choroplethr
-	url = https://github.com/arilamstein/choroplethr
 [submodule "choroplethrAdmin1"]
 	path = choroplethrAdmin1
 	url = https://github.com/arilamstein/choroplethradmin1
